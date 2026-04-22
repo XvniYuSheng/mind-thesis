@@ -14,3 +14,9 @@
 - Expanded impressions into candidate-level samples
 - Merged candidate samples with news metadata
 - Saved processed parquet files
+
+## Week 3 progress
+- Built baseline ML models
+- Finished TF-IDF + Logistic Regression baselines
+- Finished LightGBM baseline
+- Saved result tables and figures
