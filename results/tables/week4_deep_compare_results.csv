@@ -1,0 +1,5 @@
+model,auc,logloss
+TFIDF_title_LR,0.579711,0.607928
+TFIDF_title_abstract_LR,0.596899,0.613277
+LightGBM_tabular,0.625116,0.167376
+PyTorch_deep_baseline,0.595534,0.171785

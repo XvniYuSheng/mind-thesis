@@ -20,3 +20,8 @@
 - Finished TF-IDF + Logistic Regression baselines
 - Finished LightGBM baseline
 - Saved result tables and figures
+
+## Week 4 progress
+- Built a PyTorch deep learning baseline
+- Trained a click prediction model on MIND-small
+- Compared deep baseline with week 3 machine learning baselines
