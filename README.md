@@ -25,3 +25,8 @@
 - Built a PyTorch deep learning baseline
 - Trained a click prediction model on MIND-small
 - Compared deep baseline with week 3 machine learning baselines
+
+## Week 5 progress
+- Improved the PyTorch deep baseline
+- Added abstract and category features
+- Compared improved model with week 3 and week 4 models
